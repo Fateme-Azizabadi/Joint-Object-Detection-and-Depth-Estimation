@@ -4,7 +4,7 @@
  **Joint Object Detection and Depth Estimation**
  
  
- In this project,  we designed a network that consists of two main modules, namely depth estimator and object detector. This module can detect objects and determine their depth by considering a certain depth. We explained every section in detail in the Report file. 
+ In this project,  we designed a network that consists of two main modules, namely the depth estimator and the object detector. This module can detect objects and determine their depth by considering a certain depth. We explained every section in detail in the Report file. 
  ## **Depth Estimation**
  
  The goal of this part is to develop a Deep Learning Model for Monocular Depth Estimation. We got inspiration from these two articles. : 
